@@ -1,3 +1,8 @@
+Due to file size limitations on GitHub, the Jupyter Notebook files for this project are too large to be uploaded directly. To ensure you have access to these files, we have provided an external link where you can view them.
+
+Access the Jupyter Notebook Files:
+[Link to Jupyter Notebook Files](https://drive.google.com/drive/folders/1sIkdcPq1C689yE3z6GO3Y_E1TP9je7tD?usp=sharing)
+
 # US Accident Analysis
 ## Overview
 This project conducts an extensive Exploratory Data Analysis (EDA) on the US Accidents dataset. The analysis leverages advanced geographical analysis and visualization tools to uncover insights into accident patterns and their causes. By applying prompt engineering techniques with the Llama language model, the project generates impact scores and explanatory descriptions, enhancing the interpretability of feature engineering. The goal is to elucidate causal relationships between infrastructural discrepancies and accident occurrences, providing actionable insights for data-driven decision-making.
